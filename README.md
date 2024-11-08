@@ -9,7 +9,7 @@
 
 ### DEMO LINK
 
-[DMS-WEB-APPLICATION](example.link)
+[DMS-WEB-APPLICATION](tuchela.github.io/DMS-project/)
 
 ### Author
 
